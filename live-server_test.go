@@ -1,9 +1,9 @@
-package live-server
+package main_test
 
-import(
+import (
 	"testing"
 )
 
-func Test(t *testing.T){
+func Test(t *testing.T) {
 	t.Log("Test")
 }
